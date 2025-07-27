@@ -22,6 +22,7 @@ A curated list of awesome things related to Grok Ani / Vitural Mate
 | [linky](https://www.linke.ai/) | <img src="assets/images/Linky.jpg" width="300" alt="linky"> |
 | [Replika](https://replika.com/) | <img src="assets/images/replika.jpg" width="300" alt="Replika"> |
 | [Tolan](https://www.tolans.com/) | <img src="assets/images/Tolan.jpg" width="300" alt="Tolan"> |
+| [Debi](https://dirtydebi.com/) | <img src="assets/images/Debi.jpg" width="300" alt="Tolan"> |
 
 
 ## Open-Source Projects
